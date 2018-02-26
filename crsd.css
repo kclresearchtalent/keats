@@ -1,0 +1,34 @@
+/* custom fonts */
+@font-face {
+	font-family: 'KingsBureauGrot';
+	src: url('https://git.iddkingsonline.com/assets/fonts/KingsBureauGrot-ThreeSeven.ttf') format('truetype');
+font-weight: bold; 
+font-style:normal;
+}
+
+/* course title */
+h3.section-title{display:none;}
+
+/* customer logo titles */
+.page_banner{background-color:#1c355d; width:100%; min-height:200px;}
+
+/* content within a section */
+li.section{background-color:#fff;}
+
+/* content within course */
+.content{background-color:#fff;}
+
+/* section headers and names*/
+
+/* inner area of section titles */
+.course-content ul.ctopics li.section .content .toggle span.the_toggle h3.sectionname, .course-content ul.ctopics li.section .content.sectionhidden h3.sectionname {color:#fff !important; background-color:#1c355d;}
+
+.course-content ul.ctopics li.section .content .toggle span.the_toggle h3.sectionname, .course-content ul.ctopics li.section .content.sectionhidden h3.sectionname {border-radius:0 !important; border:0;}
+
+.course-content ul.ctopics li.section .content .toggle .the_toggle h3, .course-content ul.ctopics li.section .content.sectionhidden {font-family:sans-serif;}
+
+/* outer border area of section titles*/
+.course-content ul.ctopics li.section .content .toggle, .course-content ul.ctopics li.section .content.sectionhidden {background-color:#1c355d !important; border-radius:0px !important;}
+
+/* open all / close all */
+h4.on.tc-small{color:red !important;}

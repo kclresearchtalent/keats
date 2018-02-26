@@ -1,0 +1,20 @@
+/* course title */
+h3.section-title{display:none;}
+
+/* content within a section */
+li.section{background-color:;}
+
+/* content within course */
+.content{background-color:;}
+
+/* section headers and names*/
+
+/* inner area of section titles */
+.course-content ul.ctopics li.section .content .toggle span.the_toggle h3.sectionname, .course-content ul.ctopics li.section .content.sectionhidden h3.sectionname {color:blue !important; background-color:red;}
+
+.course-content ul.ctopics li.section .content .toggle span.the_toggle h3.sectionname, .course-content ul.ctopics li.section .content.sectionhidden h3.sectionname {border-radius:0 !important; border:1pt solid black;}
+
+.course-content ul.ctopics li.section .content .toggle .the_toggle h3, .course-content ul.ctopics li.section .content.sectionhidden {font-family:serif;}
+
+/* outer border area of section titles*/
+.course-content ul.ctopics li.section .content .toggle, .course-content ul.ctopics li.section .content.sectionhidden {background-color:red !important; border-radius:0px !important;}
