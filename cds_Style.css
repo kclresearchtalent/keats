@@ -21,7 +21,7 @@ li.section{background-color:#fff;}
 /* section headers and names*/
 
 /* inner area of section titles */
-.course-content ul.ctopics li.section .content .toggle span.the_toggle h3.sectionname, .course-content ul.ctopics li.section .content.sectionhidden h3.sectionname {color:#fff !important; background-color:#00a3b1;}
+.course-content ul.ctopics li.section .content .toggle span.the_toggle h3.sectionname, .course-content ul.ctopics li.section .content.sectionhidden h3.sectionname {color:#fff !important; background-color:red;}
 
 .course-content ul.ctopics li.section .content .toggle span.the_toggle h3.sectionname, .course-content ul.ctopics li.section .content.sectionhidden h3.sectionname {border-radius:0 !important; border:0;}
 
