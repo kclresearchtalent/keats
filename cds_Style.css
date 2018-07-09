@@ -14,6 +14,8 @@
 	background-color: #33475c;
 }
 
+h3.sectionname{color:#ffffff !important;}
+
 .coursesearch input[type="submit"] {
 	background-color: #ffbb57 !important;
 }
