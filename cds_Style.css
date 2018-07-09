@@ -81,7 +81,7 @@ main {
 .hero-box h1 {
   font-size: 3em;
   color: #202f3f;
-  background-color: #f3f3f3;
+  background-color: #00a3b2; /*f3f3f3*/
   text-transform: uppercase;
   padding: 5px;
 }
@@ -91,7 +91,7 @@ main {
   color: #000000;
   right: 0;
   font-family: 'Roboto' !important;
-  background-color: #f3f3f3;
+  background-color: #00a3b2;
   padding: 5px;
   text-transform: uppercase;
 }
