@@ -15,7 +15,7 @@
 }
 
 h3.sectionname{color:#ffffff !important;}
-.sectionhead{border-radius:0px !important;}
+.sectionhead{border-radius:0 !important;}
 
 
 .coursesearch input[type="submit"] {
