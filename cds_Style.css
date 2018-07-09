@@ -23,8 +23,6 @@
 	color: #33475c !important;
 }
 
-.sectionhead{background-color:#00a3b2;}
-
 .block {
 	border-color: #777;
 }
@@ -133,7 +131,7 @@ main {
 .course-content ul.ctopics li.section .content .toggle {
 	border: 1px solid #a0a0a0 !important;
     	color: #202f3f !important;
-    	background-color: #f3f3f3 !important;
+    	background-color: #00a3b2 !important;
 }
 .qn-container .smalltext {font-size: 1.7em !important; padding: 5px;}
 
