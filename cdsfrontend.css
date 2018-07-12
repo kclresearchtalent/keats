@@ -18,7 +18,7 @@ h3.sectionname{color:#ffffff !important;}
 .sectionhead h3{color: #ffffff !important;}
 .content{border-radius:0 !important;}
 .sectionhead{border-radius:0 !important;}
-
+.course-content ul.ctopics li.section .content .toggle, .course-content ul.ctopics li.section .content.sectionhidden {border-radius:0px !important;}
 
 .coursesearch input[type="submit"] {
 	background-color: #ffbb57 !important;
