@@ -24,7 +24,7 @@
 }
 
 .block {
-	border-color: #00a9bb;
+	border-color: #acd2db;
 }
 
 .subtitles {
@@ -129,9 +129,9 @@ main {
 }
 
 .course-content ul.ctopics li.section .content .toggle {
-	border: 1px solid #85cad5 !important;
+	border: 1px solid #acd2db !important;
     	color: #ffffff !important;
-    	background-color: #85cad5 !important;
+    	background-color: #acd2db !important;
 	border-radius:0px !important;
 }
 .qn-container .smalltext {font-size: 1.7em !important; padding: 5px;}
