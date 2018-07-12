@@ -28,7 +28,7 @@
 /*	*/
 
 .block {
-	border-color: #1c355d;
+	border-color: #5f6b70;
 }
 
 .subtitles {
@@ -137,7 +137,7 @@ main {
 /*	*/
 
 .course-content ul.ctopics li.section .content .toggle {
-	border: 1px solid #1c355d !important;
+	border: 1px solid #5f6b70 !important;
     	color: #ffffff !important;
     	background-color: #71a6fc !important;
 	border-radius:0px !important;
