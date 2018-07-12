@@ -14,10 +14,6 @@
 	background-color: #33475c;
 }
 
-h3.sectionname{color:#ffffff !important;}
-.sectionhead h3{color: #ffffff !important;}
-.content{border-radius:0 !important;}
-.sectionhead{border-radius:0 !important;}
 .course-content ul.ctopics li.section .content .toggle, .course-content ul.ctopics li.section .content.sectionhidden {border-radius:0px !important; color:#ffffff !important;}
 
 .coursesearch input[type="submit"] {
